@@ -1,9 +1,7 @@
-
-# Discord Bot Documentation
+# Discord Bot Documentation [(click me for repo link)](https://github.com/d-hoax/discord-bot-data-manager)
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Link To Repo](#link-to-repo)
 - [Purpose and Overview](#purpose-and-overview)
 - [Features and Capabilities](#features-and-capabilities)
 - [How It Works](#how-it-works)
@@ -26,10 +24,7 @@
 
 ```
 
----
 
-## Link to Repo: 
-https://github.com/d-hoax/discord-bot-data-manager
 
 ---
 ---
