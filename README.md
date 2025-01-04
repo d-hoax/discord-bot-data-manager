@@ -11,7 +11,8 @@
 - [Data Integrity](#data-integrity)
 - [Future Improvements](#future-improvements)
 - [Conclusion](#conclusion)
-
+  
+---
 
 ## Project Structure
 ```bash
