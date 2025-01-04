@@ -24,6 +24,9 @@
 ├── README.md
 
 ```
+
+---
+
 ## Purpose and Overview
 
 ### Purpose of the Bot
