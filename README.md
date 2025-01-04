@@ -99,7 +99,7 @@ Searches the spreadsheet for all rows where the `rank` column matches the given 
 **Expected Output**:
 ```
 **Accounts with rank 'plat 1':**
-Row 2: name=adi4386, tag=6338, rank=plat 1, username=adi4386, password=S)nu@shu1748, v?=n, email=n/a, sellable=n/a
+Row 2: name=adi4386, tag=6338, rank=plat 1, username=adi4386, password=xyz, v?=n, email=n/a, sellable=n/a
 Row 5: name=aufstrebend, tag=3200, rank=plat 1, username=aufstrebend, password=n/a, v?=n, email=n/a, sellable=n
 ```
 
