@@ -27,6 +27,12 @@
 
 ---
 
+## Link to Repo: 
+https://github.com/d-hoax/discord-bot-data-manager
+
+---
+---
+
 ## Purpose and Overview
 
 ### Purpose of the Bot
